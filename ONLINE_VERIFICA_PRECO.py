@@ -1,5 +1,3 @@
-#pip install schedule
-#pip install selenium==3.141.0
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By

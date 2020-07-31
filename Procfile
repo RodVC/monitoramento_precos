@@ -1,0 +1,1 @@
+worker: python ONLINE_VERIFICA_PRECO.py
